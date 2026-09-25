@@ -1,8 +1,8 @@
-# Formula 1 Race Analytics & SQL Performance Engineering
+# F1 SQL Analytics — 7,01,000+ Records, 1950–2024
 
 ## Project Overview
 
-A comprehensive **MySQL-based Formula 1 analytics project** covering **75 seasons of Formula 1 history from 1950–2024**.
+A **MySQL-based Formula 1 analytics project** covering **75 seasons of Formula 1 history from 1950–2024** and **7,01,000+ records**.
 
 Rather than treating the dataset as a collection of independent CSV files, this project builds a structured **relational database** and uses advanced SQL to transform historical race data into analytical insights.
 

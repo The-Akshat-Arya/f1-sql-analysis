@@ -1,4 +1,4 @@
-# F1 SQL Analytics (1950–2024), 7,00,1000+ records.
+# F1 SQL Analytics (1950–2024), 7,01,000+ records.
 
 ## Project Overview
 
